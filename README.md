@@ -1,8 +1,9 @@
-# Biblio-Tech (Books Database)
+# Biblio-Tech (Books Database) - SOEN 363
 
-**Fall 2024 - SOEN 363**
 ## Overview
 Biblio-Tech is a books database project which integrates data from the Google Books API and Open Library API into both relational and NoSQL databases.
+
+**Presentation:** [Biblio-Tech Slides](https://github.com/vinishamanek/bibliotech/blob/main/additional/bibliotech-slides.pdf)
 
 ## Project Structure
 
